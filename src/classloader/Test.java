@@ -19,4 +19,8 @@ public class Test {
 
         System.out.println("Class loaded successfully.");
     }
+    
+    public void forGitTest(){
+    	// add line 1
+    }
 }
